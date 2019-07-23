@@ -1,0 +1,15 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Chandrasekhar Prabala",
+    "classifications": [ "webapi" ],
+    "name": "Red Onion",
+    "identity": "RedOnion.Sample.CSharp",
+    "groupIdentity": "RedOnion.Sample",
+    "shortName": "redonion",
+    "tags": {
+        "language": "C#",
+        "type":"project"
+    },
+    "sourceName": "RedOnion",
+    "preferNameDirectory": true
+}
